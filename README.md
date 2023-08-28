@@ -1,4 +1,4 @@
 # myprojects
 My Projects
 
-1. [Amazon Clone] (README.md)
+1. [./amazon_clone/README.md] (Amazon Clone)
